@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/Karanja-Wa-Kimura/static/css/main.0a0b792b.chunk.css",
-    "main.js": "/Karanja-Wa-Kimura/static/js/main.d8c74f29.chunk.js",
-    "main.js.map": "/Karanja-Wa-Kimura/static/js/main.d8c74f29.chunk.js.map",
+    "main.css": "/Karanja-Wa-Kimura/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Karanja-Wa-Kimura/static/js/main.d4633adf.chunk.js",
+    "main.js.map": "/Karanja-Wa-Kimura/static/js/main.d4633adf.chunk.js.map",
     "runtime-main.js": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js",
     "runtime-main.js.map": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js.map",
-    "static/js/2.16f55660.chunk.js": "/Karanja-Wa-Kimura/static/js/2.16f55660.chunk.js",
-    "static/js/2.16f55660.chunk.js.map": "/Karanja-Wa-Kimura/static/js/2.16f55660.chunk.js.map",
+    "static/js/2.34d74ee6.chunk.js": "/Karanja-Wa-Kimura/static/js/2.34d74ee6.chunk.js",
+    "static/js/2.34d74ee6.chunk.js.map": "/Karanja-Wa-Kimura/static/js/2.34d74ee6.chunk.js.map",
     "index.html": "/Karanja-Wa-Kimura/index.html",
-    "precache-manifest.b7953ec2632b46e3c4c0261e2357f094.js": "/Karanja-Wa-Kimura/precache-manifest.b7953ec2632b46e3c4c0261e2357f094.js",
+    "precache-manifest.faaf55556890972030da510197babf0a.js": "/Karanja-Wa-Kimura/precache-manifest.faaf55556890972030da510197babf0a.js",
     "service-worker.js": "/Karanja-Wa-Kimura/service-worker.js",
-    "static/css/main.0a0b792b.chunk.css.map": "/Karanja-Wa-Kimura/static/css/main.0a0b792b.chunk.css.map",
-    "static/js/2.16f55660.chunk.js.LICENSE.txt": "/Karanja-Wa-Kimura/static/js/2.16f55660.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/Karanja-Wa-Kimura/static/media/avatar.7c8e5f50.png",
-    "static/media/App.css": "/Karanja-Wa-Kimura/static/media/coffee-apple.2dd213aa.jpg"
+    "static/css/main.d1b05096.chunk.css.map": "/Karanja-Wa-Kimura/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.34d74ee6.chunk.js.LICENSE.txt": "/Karanja-Wa-Kimura/static/js/2.34d74ee6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Karanja-Wa-Kimura/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.324ebddf.js",
-    "static/js/2.16f55660.chunk.js",
-    "static/css/main.0a0b792b.chunk.css",
-    "static/js/main.d8c74f29.chunk.js"
+    "static/js/2.34d74ee6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d4633adf.chunk.js"
   ]
 }
