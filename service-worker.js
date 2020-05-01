@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Karanja-Wa-Kimura/precache-manifest.faaf55556890972030da510197babf0a.js"
+  "/Karanja-Wa-Kimura/precache-manifest.09434553de02fb9df89b7f51cf2dcf3f.js"
 );
 
 self.addEventListener('message', (event) => {
