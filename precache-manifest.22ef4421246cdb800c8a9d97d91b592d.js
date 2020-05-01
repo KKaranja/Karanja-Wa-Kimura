@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e697333fbab0f1af8ff0c900263207e2",
+    "revision": "5e2ce8ef18653c7f20b5ff3d40ba2bba",
     "url": "/Karanja-Wa-Kimura/index.html"
   },
   {
-    "revision": "ebd0fdc114492b1e4df1",
+    "revision": "b2173ed637e823ed764d",
     "url": "/Karanja-Wa-Kimura/static/css/main.6a934dfc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Karanja-Wa-Kimura/static/js/2.dccbca25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebd0fdc114492b1e4df1",
-    "url": "/Karanja-Wa-Kimura/static/js/main.12ae2bcb.chunk.js"
+    "revision": "b2173ed637e823ed764d",
+    "url": "/Karanja-Wa-Kimura/static/js/main.1cb43d5b.chunk.js"
   },
   {
     "revision": "1e3e52d6be2b793d0bca",

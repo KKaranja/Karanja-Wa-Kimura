@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Karanja-Wa-Kimura/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/Karanja-Wa-Kimura/static/js/main.12ae2bcb.chunk.js",
-    "main.js.map": "/Karanja-Wa-Kimura/static/js/main.12ae2bcb.chunk.js.map",
+    "main.js": "/Karanja-Wa-Kimura/static/js/main.1cb43d5b.chunk.js",
+    "main.js.map": "/Karanja-Wa-Kimura/static/js/main.1cb43d5b.chunk.js.map",
     "runtime-main.js": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js",
     "runtime-main.js.map": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js.map",
     "static/js/2.dccbca25.chunk.js": "/Karanja-Wa-Kimura/static/js/2.dccbca25.chunk.js",
     "static/js/2.dccbca25.chunk.js.map": "/Karanja-Wa-Kimura/static/js/2.dccbca25.chunk.js.map",
     "index.html": "/Karanja-Wa-Kimura/index.html",
-    "precache-manifest.09434553de02fb9df89b7f51cf2dcf3f.js": "/Karanja-Wa-Kimura/precache-manifest.09434553de02fb9df89b7f51cf2dcf3f.js",
+    "precache-manifest.22ef4421246cdb800c8a9d97d91b592d.js": "/Karanja-Wa-Kimura/precache-manifest.22ef4421246cdb800c8a9d97d91b592d.js",
     "service-worker.js": "/Karanja-Wa-Kimura/service-worker.js",
     "static/css/main.6a934dfc.chunk.css.map": "/Karanja-Wa-Kimura/static/css/main.6a934dfc.chunk.css.map",
     "static/js/2.dccbca25.chunk.js.LICENSE.txt": "/Karanja-Wa-Kimura/static/js/2.dccbca25.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.324ebddf.js",
     "static/js/2.dccbca25.chunk.js",
     "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.12ae2bcb.chunk.js"
+    "static/js/main.1cb43d5b.chunk.js"
   ]
 }
