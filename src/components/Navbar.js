@@ -21,14 +21,16 @@ import {
 
 const Navbar = () => {
     return (
-        <Box component="nav">
-            <AppBar>
-                <Toolbar>
-                    <ArrowBack/>
-                </Toolbar>
-            </AppBar>  
-        </Box>
-    )
+      <Box component="nav">
+        <AppBar position="fixed" style={{background:"222"}}>
+          <Toolbar>
+            <IconButton>
+              <ArrowBack style={{background: "tomato"}} />
+            </IconButton>
+          </Toolbar>
+        </AppBar>
+      </Box>
+    );
 }
 
 export default Navbar
