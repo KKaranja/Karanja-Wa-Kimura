@@ -22,6 +22,7 @@ const useStyles = makeStyles({
   mainContainer: {
     background: "#233",
     height: "100%",
+    marginTop: "3rem"
   },
   cardContainer: {
     maxWidth: 345,
