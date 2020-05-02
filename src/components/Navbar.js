@@ -52,11 +52,12 @@ const menuItems = [
     {
         listIcon :<AssignmentInd/>,
         listText: "Resume",
-        listPath: "resume"
+        listPath: "/resume"
     },
     {
         listIcon :<Apps/>,
-        listText: "Portfolio"
+        listText: "Portfolio",
+        listPath: "/portfolio"
     },
     {
         listIcon :<ContactMail/>,
