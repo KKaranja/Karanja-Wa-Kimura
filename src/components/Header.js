@@ -8,6 +8,7 @@ import {
     Box
 } from "@material-ui/core";
 import avatar from "../images/avatar.png"
+import ava from "../images/Isaac Karanja Kimura.jpg";
 
 
 
@@ -42,7 +43,7 @@ const Header = () => {
         <Grid container justify="center">
           <Avatar
             className={classes.avatar}
-            src={avatar}
+            src={ava}
             alt="isaac karanja kimura"
           />
         </Grid>
