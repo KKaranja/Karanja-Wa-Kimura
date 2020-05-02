@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Karanja-Wa-Kimura/static/css/main.10a49892.chunk.css",
-    "main.js": "/Karanja-Wa-Kimura/static/js/main.bfad417f.chunk.js",
-    "main.js.map": "/Karanja-Wa-Kimura/static/js/main.bfad417f.chunk.js.map",
-    "runtime-main.js": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js",
-    "runtime-main.js.map": "/Karanja-Wa-Kimura/static/js/runtime-main.324ebddf.js.map",
-    "static/js/2.e2c8f69a.chunk.js": "/Karanja-Wa-Kimura/static/js/2.e2c8f69a.chunk.js",
-    "static/js/2.e2c8f69a.chunk.js.map": "/Karanja-Wa-Kimura/static/js/2.e2c8f69a.chunk.js.map",
-    "index.html": "/Karanja-Wa-Kimura/index.html",
-    "precache-manifest.6b59db498c8c1614d8f130ed27517078.js": "/Karanja-Wa-Kimura/precache-manifest.6b59db498c8c1614d8f130ed27517078.js",
-    "service-worker.js": "/Karanja-Wa-Kimura/service-worker.js",
-    "static/css/main.10a49892.chunk.css.map": "/Karanja-Wa-Kimura/static/css/main.10a49892.chunk.css.map",
-    "static/js/2.e2c8f69a.chunk.js.LICENSE.txt": "/Karanja-Wa-Kimura/static/js/2.e2c8f69a.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/Karanja-Wa-Kimura/static/media/avatar.7c8e5f50.png",
-    "static/media/App.css": "/Karanja-Wa-Kimura/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/html-css-javascript-lg.jpg": "/Karanja-Wa-Kimura/static/media/html-css-javascript-lg.54fd4234.jpg",
-    "static/media/javascript-fullstack.jpg": "/Karanja-Wa-Kimura/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/mern-stack.jpg": "/Karanja-Wa-Kimura/static/media/mern-stack.90616a5d.jpg",
-    "static/media/react-redux.jpg": "/Karanja-Wa-Kimura/static/media/react-redux.a8b012a0.jpg"
+    "main.css": "/static/css/main.ddb78caf.chunk.css",
+    "main.js": "/static/js/main.908bc557.chunk.js",
+    "main.js.map": "/static/js/main.908bc557.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2636bc25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2636bc25.js.map",
+    "static/js/2.e2c8f69a.chunk.js": "/static/js/2.e2c8f69a.chunk.js",
+    "static/js/2.e2c8f69a.chunk.js.map": "/static/js/2.e2c8f69a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f751be1b67400929a929ae28b09d0396.js": "/precache-manifest.f751be1b67400929a929ae28b09d0396.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ddb78caf.chunk.css.map": "/static/css/main.ddb78caf.chunk.css.map",
+    "static/js/2.e2c8f69a.chunk.js.LICENSE.txt": "/static/js/2.e2c8f69a.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/static/media/react-redux.a8b012a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.324ebddf.js",
+    "static/js/runtime-main.2636bc25.js",
     "static/js/2.e2c8f69a.chunk.js",
-    "static/css/main.10a49892.chunk.css",
-    "static/js/main.bfad417f.chunk.js"
+    "static/css/main.ddb78caf.chunk.css",
+    "static/js/main.908bc557.chunk.js"
   ]
 }
