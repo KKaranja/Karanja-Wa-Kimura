@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Router basename="/Home">
+  <Router basename="/index.js">
     <App />
   </Router>,
   document.getElementById("root")

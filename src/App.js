@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import CssBaseline from "@material-ui/core/CssBaseline";
 import {Route } from "react-router-dom";
 import './App.css';
-import Home from "./components/Home";
+import Home from "./components/index";
 import Resume from "./components/Resume";
 import Portfolio from "./components/Portfolio";
 
