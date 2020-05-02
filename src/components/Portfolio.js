@@ -13,10 +13,10 @@ import {
   Typography,
 } from "@material-ui/core";
 
-import project1 from "../images/html-css-javascript-lg.jpg";
-import project2 from "../images/javascript-fullstack.jpg";
-import project3 from "../images/mern-stack.jpg";
-import project4 from "../images/react-redux.jpg";
+import project1 from "../images/html-css-javascript-lg.webp";
+import project2 from "../images/javascript-fullstack.webp";
+import project3 from "../images/mern-stack.webp";
+import project4 from "../images/react-redux.webp";
 
 const useStyles = makeStyles({
   mainContainer: {
