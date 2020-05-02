@@ -5,9 +5,9 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    <Router>
-      <App />
-    </Router>,
+  <Router basename="/Home">
+    <App />
+  </Router>,
   document.getElementById("root")
 );
 
