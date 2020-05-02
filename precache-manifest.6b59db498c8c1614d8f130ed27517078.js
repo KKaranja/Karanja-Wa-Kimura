@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0489f6f0faf7da866a6d2bbd1d5d4ec",
+    "revision": "6d8bb7fd5f46635eb0d98b43af4b40b7",
     "url": "/Karanja-Wa-Kimura/index.html"
   },
   {
-    "revision": "4fc867ffd7e3b916de0c",
+    "revision": "5c0a289ffbe31e2428db",
     "url": "/Karanja-Wa-Kimura/static/css/main.10a49892.chunk.css"
   },
   {
-    "revision": "43ae26c370c4ddbf4253",
-    "url": "/Karanja-Wa-Kimura/static/js/2.aceeeb50.chunk.js"
+    "revision": "69db45e2f4a7b402b4b4",
+    "url": "/Karanja-Wa-Kimura/static/js/2.e2c8f69a.chunk.js"
   },
   {
     "revision": "0a8c051bdf17e231ea249c5452d1df44",
-    "url": "/Karanja-Wa-Kimura/static/js/2.aceeeb50.chunk.js.LICENSE.txt"
+    "url": "/Karanja-Wa-Kimura/static/js/2.e2c8f69a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fc867ffd7e3b916de0c",
-    "url": "/Karanja-Wa-Kimura/static/js/main.3a3c4b51.chunk.js"
+    "revision": "5c0a289ffbe31e2428db",
+    "url": "/Karanja-Wa-Kimura/static/js/main.bfad417f.chunk.js"
   },
   {
     "revision": "1e3e52d6be2b793d0bca",
