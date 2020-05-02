@@ -2,6 +2,7 @@ import React, { Fragment, useState } from 'react';
 import {makeStyles} from "@material-ui/core/styles";
 import MobilRightMenuSkider from "@material-ui/core/Drawer";
 import {Link } from "react-router-dom";
+import Footer from "./Footer";
 import {
 AppBar,
 Toolbar,
@@ -61,7 +62,8 @@ const menuItems = [
     },
     {
         listIcon :<ContactMail/>,
-        listText: "Contacts"
+        listText: "Contacts",
+        listPath: "/contacts"
     }
 ]
 
@@ -119,6 +121,7 @@ const Navbar = () => {
               onClose={toggleSlider("right", false)}
               >
                 {sideList("right")}
+                <Footer/>
               </MobilRightMenuSkider>
             </Toolbar>
           </AppBar>

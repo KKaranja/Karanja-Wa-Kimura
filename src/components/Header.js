@@ -7,7 +7,6 @@ import {
     Grid,
     Box
 } from "@material-ui/core";
-import avatar from "../images/avatar.png"
 import ava from "../images/Isaac Karanja Kimura.webp";
 
 
