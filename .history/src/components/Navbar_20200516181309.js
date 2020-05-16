@@ -26,10 +26,10 @@ import {
 import avatar from "../images/isaac-karanja-kimura-software-engineer-and-SEO-specialist.webp";
 
 //  css
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(theme => ({
   menuSliderContainer: {
     width: 250,
-    background: "#df0c81",
+    background: "#8d012e",
     height: "100%",
   },
   avatar: {
@@ -38,9 +38,9 @@ const useStyles = makeStyles((theme) => ({
     width: theme.spacing(13),
     height: theme.spacing(13),
   },
-  listItem:{
-    color: "#cfe26f"
-  }
+  listItem: {
+    color: "#cfe26f",
+  },
 }));
 
 

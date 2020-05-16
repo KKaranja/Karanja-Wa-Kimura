@@ -104,10 +104,9 @@ const Navbar = () => {
         </List>
       </Box>
     );
-    return (
-      <Fragment>
+    return <Fragment>
         <Box component="nav">
-          <AppBar position="fixed" style={{ background: "#173058" }}>
+          <AppBar position="fixed" style={{ background: "#8e9e71" }}>
             <Toolbar>
               <IconButton onClick={toggleSlider("right", true)}>
                 <ArrowBack style={{ color: "#df0c81" }} />
@@ -115,19 +114,14 @@ const Navbar = () => {
               <Typography variant="h5" style={{ color: "#cfe26f" }}>
                 Portfolio
               </Typography>
-              <MobilRightMenuSkider
-              anchor="right"
-              open={state.right}
-              onClose={toggleSlider("right", false)}
-              >
+              <MobilRightMenuSkider anchor="right" open={state.right} onClose={toggleSlider("right", false)}>
                 {sideList("right")}
-                <Footer/>
+                <Footer />
               </MobilRightMenuSkider>
             </Toolbar>
           </AppBar>
         </Box>
-      </Fragment>
-    );
+      </Fragment>;
 }
 
 export default Navbar

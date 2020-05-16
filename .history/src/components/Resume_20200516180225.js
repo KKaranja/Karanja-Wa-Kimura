@@ -5,7 +5,7 @@ import { Typography, Box } from "@material-ui/core";
 
 const useStyles = makeStyles(theme => ({
   mainContainer: {
-    background: "#201152",
+    background: "#133c2a",
   },
   timeLine: {
     position: "relative",
