@@ -16,9 +16,9 @@ const useStyles = makeStyles({
       MaxWidth: "0px",
     },
     "& .MuiSvgIcon-root": {
-      fill: "tan",
+      fill: "#cfe26f",
       "&:hover": {
-        fill: "tomato",
+        fill: "#df0c81",
         fontSize: "1.8rem",
       },
     },
@@ -29,7 +29,7 @@ const useStyles = makeStyles({
 const Footer = () => {
     const classes = useStyles();
     return (
-      <BottomNavigation width="auto" style={{ background: "#222" }}>
+      <BottomNavigation width="auto" style={{ background: "#173058" }}>
         <Tooltip title="Follow" placement="top">
         <BottomNavigationAction
           className={classes.root}

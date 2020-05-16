@@ -5,7 +5,7 @@ import { Typography, Box } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
   mainContainer: {
-    background: "#233",
+    background: "#133c2a",
   },
   timeLine: {
     position: "relative",
@@ -34,7 +34,7 @@ const useStyles = makeStyles((theme) => ({
   },
   timeLineItem: {
     padding: "1rem",
-    borderBottom: "2px solid tan",
+    borderBottom: "2px solid #cfe26f",
     position: "relative",
     margin: "1rem 3rem 1rem 1rem",
     clear: "both",
@@ -48,7 +48,7 @@ const useStyles = makeStyles((theme) => ({
       right: "-0.625rem",
       top: "calc(50% -5px)",
       borderStyle: "solid",
-      borderColor: "tomato tomato transparent transparent",
+      borderColor: "#df0c81 #df0c81 transparent transparent",
       borderWidth: "0.625rem",
       transform: "rotate(45deg)",
     },
@@ -58,12 +58,12 @@ const useStyles = makeStyles((theme) => ({
       "&:nth-of-type(2)": {
         float: "right",
         margin: "1rem",
-        borderColor: "tan",
+        borderColor: "#cfe26f",
       },
       "&:nth-of-type(2n):before": {
         right: "auto",
         left: "-0.625rem",
-        borderColor: " transparent transparent tomato tomato ",
+        borderColor: " transparent transparent #df0c81 #df0c81 ",
       },
     },
   },
@@ -72,7 +72,7 @@ const useStyles = makeStyles((theme) => ({
     maxWidth: "9.375rem",
     margin: "0 3rem 0 auto",
     fontSize: "1.8rem",
-    background: " tomato",
+    background: " #df0c81",
     color: "white",
     lineHeight: 1,
     padding: "0.5rem 0 1rem",
@@ -92,7 +92,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   heading: {
-    color: "tomato",
+    color: "#df0c81",
     padding: "6rem 0",
     textTransform: "uppercase",
   },
@@ -130,14 +130,14 @@ const Resume = () => {
             <Typography
               variant="body1"
               align="center"
-              style={{ color: "tomato" }}
+              style={{ color: "#df0c81" }}
             >
               Company Name where i worked
             </Typography>
             <Typography
               variant="subtitle1"
               align="center"
-              style={{ color: "tan" }}
+              style={{ color: "#cfe26f" }}
             >
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
               magnam sit praesentium perspiciatis modi cupiditate quam minima
@@ -161,14 +161,14 @@ const Resume = () => {
             <Typography
               variant="body1"
               align="center"
-              style={{ color: "tomato" }}
+              style={{ color: "#df0c81" }}
             >
               Company Name where i worked
             </Typography>
             <Typography
               variant="subtitle1"
               align="center"
-              style={{ color: "tan" }}
+              style={{ color: "#cfe26f" }}
             >
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
               magnam sit praesentium perspiciatis modi cupiditate quam minima
@@ -192,14 +192,14 @@ const Resume = () => {
             <Typography
               variant="body1"
               align="center"
-              style={{ color: "tomato" }}
+              style={{ color: "#df0c81" }}
             >
               Company Name where i worked
             </Typography>
             <Typography
               variant="subtitle1"
               align="center"
-              style={{ color: "tan" }}
+              style={{ color: "#cfe26f" }}
             >
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
               magnam sit praesentium perspiciatis modi cupiditate quam minima

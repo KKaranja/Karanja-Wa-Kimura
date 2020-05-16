@@ -20,7 +20,7 @@ import project4 from "../images/react-redux.webp";
 
 const useStyles = makeStyles({
   mainContainer: {
-    background: "#233",
+    background: "#133c2a",
     height: "100%",
     marginTop: "3rem"
   },

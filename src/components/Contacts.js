@@ -21,28 +21,28 @@ const useStyles = makeStyles((theme) => ({
   },
   button: {
     marginTop: "1rem",
-    color: "tomato",
-    borderColor:"tomato",
+    color: "#df0c81",
+    borderColor:"#df0c81",
   },
 }));
 
 const InputField = withStyles({
   root: {
     "& label.Mui-focused": {
-      color: "tomato",
+      color: "#df0c81",
     },
     "& label": {
-      color: "tan",
+      color: "#cfe26f",
     },
     "& .MuiOutlinedInput-root": {
       "& fieldset": {
-        borderColor: "tan",
+        borderColor: "#cfe26f",
       },
       "&:hover fieldset": {
-        borderColor: "tomato",
+        borderColor: "#df0c81",
       },
       "&.Mui-focused fieldset": {
-        borderColor: "tomato",
+        borderColor: "#df0c81",
       },
     },
   },
@@ -54,13 +54,13 @@ const Contacts = () => {
     return (
       <Fragment>
          <Navbar/>
-        <Box component="div" style={{background:"#233", height: "100vh"}}>
+        <Box component="div" style={{ background:"#133c2a", height: "100vh"}}>
           <Grid container justify="center">
             <Box component="form" className={classes.form}>
               <Typography
                variant="h5"
                style= {{
-                   color: "tomato",
+                 color: "#df0c81",
                    textAlign: "center",
                    textTransform: "uppercase"
                }}

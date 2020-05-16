@@ -23,13 +23,13 @@ import {
     Apps,
     ContactMail
 } from "@material-ui/icons";
-import avatar from "../images/avatar.png";
+import avatar from "../images/isaac-karanja-kimura-software-engineer-and-SEO-specialist.jpg";
 
 //  css
 const useStyles = makeStyles((theme) => ({
   menuSliderContainer: {
     width: 250,
-    background: "#511",
+    background: "#df0c81",
     height: "100%",
   },
   avatar: {
@@ -39,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
     height: theme.spacing(13),
   },
   listItem:{
-      color: "tan"
+    color: "#cfe26f"
   }
 }));
 
@@ -107,12 +107,12 @@ const Navbar = () => {
     return (
       <Fragment>
         <Box component="nav">
-          <AppBar position="fixed" style={{ background: "#222" }}>
+          <AppBar position="fixed" style={{ background: "#173058" }}>
             <Toolbar>
               <IconButton onClick={toggleSlider("right", true)}>
-                <ArrowBack style={{ color: "tomato" }} />
+                <ArrowBack style={{ color: "#df0c81" }} />
               </IconButton>
-              <Typography variant="h5" style={{ color: "tan" }}>
+              <Typography variant="h5" style={{ color: "#cfe26f" }}>
                 Portfolio
               </Typography>
               <MobilRightMenuSkider
