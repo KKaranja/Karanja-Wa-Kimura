@@ -23,7 +23,7 @@ import {
     Apps,
     ContactMail
 } from "@material-ui/icons";
-import avatar from "../images/isaac-karanja-kimura-software-engineer-and-SEO-specialist.jpg";
+import avatar from "../images/isaac-karanja-kimura-software-engineer-and-SEO-specialist.webp";
 
 //  css
 const useStyles = makeStyles((theme) => ({
