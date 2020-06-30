@@ -40,8 +40,8 @@ const Footer = () => {
         href = "https://www.facebook.com/ikaranja2"
         target = "_blank"
         icon = { < Facebook / > }
-        />{" "} { " " } <
-        /Tooltip>{" "} { " " } <
+        />{" "} <
+        /Tooltip>{" "} <
         Tooltip title = "Connect"
         placement = "top" >
         <
@@ -51,8 +51,8 @@ const Footer = () => {
         href = "https://www.linkedin.com/in/isaac-kimura-a079a4129/"
         target = "_blank"
         icon = { < LinkedInIcon / > }
-        />{" "} { " " } <
-        /Tooltip>{" "} { " " } <
+        />{" "} <
+        /Tooltip>{" "} <
         Tooltip title = "Connect"
         placement = "top" >
         <
@@ -62,8 +62,8 @@ const Footer = () => {
         href = "https://github.com/KKaranja"
         target = "_blank"
         icon = { < GitHubIcon / > }
-        />{" "} { " " } <
-        /Tooltip>{" "} { " " } <
+        />{" "} <
+        /Tooltip>{" "} <
         /BottomNavigation>
     );
 };
